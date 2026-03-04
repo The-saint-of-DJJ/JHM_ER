@@ -1,0 +1,13 @@
+streamlit
+streamlit-molstar
+stmol
+py3Dmol
+torch
+rdkit
+pandas
+numpy
+requests
+scikit-learn
+joblib
+xgboost
+lightgbm
